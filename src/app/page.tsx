@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <div>
       <Navbar />
-      <h1>Blog App made by Tauha Azmat <a style={{color: 'blue'}} target="_blank" href="https://www.github.com/tauhazmat">@tauhazmat</a></h1>
+      <h1>NextPost - Blog App made by <a style={{color: 'blue'}} target="_blank" href="https://www.github.com/tauhazmat">@tauhazmat</a></h1>
       <BlogList />
     </div>
   );

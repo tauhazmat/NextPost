@@ -82,7 +82,7 @@ const Navbar = () => {
 
   return (
     <nav style={navStyle}>
-      <Link href="/" style={logoStyle}>Tauha's Blog App</Link>
+      <Link href="/" style={logoStyle}>NextPost</Link>
       <ul style={ulStyle}>
         <li style={userEmailStyle}>
         {user?.email}
